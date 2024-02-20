@@ -1,22 +1,12 @@
 ---
 layout: page
-title: Schedule
-permalink: /schedule/
+title: Activities
+permalink: /activities/
 ---
-This workshop is structured around the use of sensitising design methods and body maps to uncover bodily sonic experiences with NIME systems, designed to include theoretical insights and practical activities to deepen the understanding of the body-instrument relationship.
 
-| Time    | Duration (mins) | Activities|
-| -------- | ------- |
-|10:00 | 10  | Introduction to the Body Maps |
-|10:10 | 10  | Body Sensitisation to Physical Work with NIME |
-|10:20 | 40  | Body Maps in Action with Curated NIMEs |
-|11:00 | 10  | Break |
-|11:10 | 30  | Body Maps with Personal NIME Exploration |
-|11:40 | 20  | Collective Reflection |
-|12:00 | - | Workshop Ends |
+The workshop will follow structure. We will provide body maps templates, papers, carton for you to explore bodily experiences with NIMEs, have fun!
 
-
-## 1. Introduction to the Body Maps Concept
+## 1. Introduction to the Body Maps Concept (10 mins)
 The workshop begins with an introduction to the body maps
 concept, its context and how it will be used in later practical
 activities.
@@ -27,7 +17,7 @@ activities.
 
 
 
-## 2. Body Sensitisation to Physical Work with NIME
+## 2. Body Sensitisation to Physical Work with NIME (10 mins)
 This session provides a sensory and movement warm-up de-
 signed to heighten participants awareness of their bodies in
 relation to the physicality NIMEs, inspired by Butoh dancer
@@ -35,7 +25,7 @@ relation to the physicality NIMEs, inspired by Butoh dancer
 ticipants to the diverse bodily sensations evoked by NIME
 interactions.
 
-## 3. Body Maps in Action with Curated NIMEs
+## 3. Body Maps in Action with Curated NIMEs (40 mins)
 This session demonstrates the use of body maps with four
 distinct open-source NIME systems. This aims to show
 how bodily experiences are unfolded by different creative
@@ -58,7 +48,7 @@ bodily experiences, including:
 Participants will be organised into groups to interact with one of these systems and document their experiences using the body maps
 template. Online participants will form a virtual group.
 
-## 4. Body Maps with Personal NIME Exploration
+## 4. Body Maps with Personal NIME Exploration (30 mins)
 In this session, participants will employ the body maps tool
 with their NIMEs, similar to the previous section. This session aims to provoke thoughtful reflections and insights into
 the intimate relationship between the performer and their
@@ -66,7 +56,7 @@ own instrument. For those without their instruments on
 hand, we courage collaboration or conceptual engagement.
 Online participants will complete this remotely.
 
-## 5. Collective Reflection
+## 5. Collective Reflection (20 mins)
 The workshop will end with a group reflection where participants will share their experiences and create a collective
 body map. This will help discuss how various technologies affect their experiences with sound. A final discussion
 will summarise these experiences, highlighting how these insights shape body experience design in creative expression

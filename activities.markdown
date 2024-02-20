@@ -35,7 +35,7 @@ bodily experiences, including:
 |<img width="300" alt="joakinator" src="https://github.com/JoakuDeSotavento/Cyborg-Interface/raw/master/assets/joaquin-diaz-duran-joakinator.png">  |  <img width="300" alt="thanles" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6CnYkbA5d_4EOcjWiA2UTjd5e2I1JwvfMg&usqp=CAU">|
 | [CUBE](https://www.nime.org/proc/nime22_27/index.html)                      | [#otherbeats](https://otherbeats.net)               |
 |:-------------------------:|:-------------------------:|
-|<img width="300" alt="cube" src="./assets/cubing-sound-inapp.jpg">  |  <img width="300" alt="otherbeats" src="https://freight.cargo.site/t/original/i/4c3e3e77e39d7e2f9f25a70c211fa1aa0bea6a5961ac4fa488a00c68670a90d4/Zaes--otherbeats-still-0.png">|
+|<img width="300" alt="cube" src="../assets/cubing-sound-inapp.jpg">  |  <img width="300" alt="otherbeats" src="https://freight.cargo.site/t/original/i/4c3e3e77e39d7e2f9f25a70c211fa1aa0bea6a5961ac4fa488a00c68670a90d4/Zaes--otherbeats-still-0.png">|
 
 
 - Joakinator: A wearable interactive interface that enables body gestures to activate various media materials, such as sound, music, and video.

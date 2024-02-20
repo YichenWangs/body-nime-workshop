@@ -12,9 +12,7 @@ concept, its context and how it will be used in later practical
 activities.
 
 ![bodymap](https://dl.acm.org/cms/attachment/html/10.1145/3569009.3573838/assets/html/images/tei23-60-fig9.jpg)
-<center>An illustration of using body maps to explore body experience.</center> 
-[Source](https://dl.acm.org/doi/10.1145/3569009.3573838)
-
+<center>An illustration of using body maps to explore body experience. <a href="https://dl.acm.org/doi/10.1145/3569009.3573838">Image Source</a></center> 
 
 
 ## 2. Body Sensitisation to Physical Work with NIME (10 mins)
@@ -37,7 +35,7 @@ bodily experiences, including:
 |<img width="300" alt="joakinator" src="https://github.com/JoakuDeSotavento/Cyborg-Interface/raw/master/assets/joaquin-diaz-duran-joakinator.png">  |  <img width="300" alt="thanles" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6CnYkbA5d_4EOcjWiA2UTjd5e2I1JwvfMg&usqp=CAU">|
 | [CUBE](https://www.nime.org/proc/nime22_27/index.html)                      | [#otherbeats](https://otherbeats.net)               |
 |:-------------------------:|:-------------------------:|
-|<img width="300" alt="cube" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="300" alt="otherbeats" src="https://freight.cargo.site/t/original/i/4c3e3e77e39d7e2f9f25a70c211fa1aa0bea6a5961ac4fa488a00c68670a90d4/Zaes--otherbeats-still-0.png">|
+|<img width="300" alt="cube" src="./assets/cubing-sound-inapp.jpg">  |  <img width="300" alt="otherbeats" src="https://freight.cargo.site/t/original/i/4c3e3e77e39d7e2f9f25a70c211fa1aa0bea6a5961ac4fa488a00c68670a90d4/Zaes--otherbeats-still-0.png">|
 
 
 - Joakinator: A wearable interactive interface that enables body gestures to activate various media materials, such as sound, music, and video.

@@ -4,7 +4,7 @@ title: Activities
 permalink: /activities/
 ---
 
-The workshop will follow structure. We will provide body maps templates, papers, carton for you to explore bodily experiences with NIMEs, have fun!
+The workshop will follow the following structure. We will provide body maps templates, papers, carton for you to explore bodily experiences with NIMEs, have fun!
 
 ## 1. Introduction to the Body Maps Concept (10 mins)
 The workshop begins with an introduction to the body maps

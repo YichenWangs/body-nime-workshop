@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Exploring the Body Experience of Interacting with NIMEs
+title: Exploring Body Interaction with NIMEs
 email: yichen.wang@anu.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  This is for NIME'24 workshop: Exploring the Body Experience of Interacting with NIMEs.
+  This is for NIME'24 workshop: Exploring Body Interaction with NIMEs.
 baseurl: "/body-nime-workshop" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yichenwangs

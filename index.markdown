@@ -4,24 +4,20 @@
 
 layout: page
 ---
-Organisers: Yichen Wang, Joaquín R. Díaz Durán, Laia Turmo Vidal
+Organisers: Yichen Wang, Sandy Ma, Charles Patrick Martin
 
 
 # Workshop Information
 
-| Time and Date    | 10:00 - 12:00, 3rd September, 2024 (UTC +1)|
-| Online |  Zoom via link  |
+| Time and Date    | 10:00 - 12:00, 2rd September, 2024 (UTC +1)|
 | Location    |  Utrecht, Netherland |
 | Communication Channel    |  Slack via link|
 
 
 # How do I attend the workshop?
 
-The workshop will run in a hybrid mode.
+The workshop will run in a physical mode.
 
-For online participants, we will provide:
-- Zoom link (via an email TBA).
-- Slack channel for discussion (TBA).
 
 # Workshop Description
 
@@ -41,8 +37,7 @@ This workshop is structured around the use of sensitising design methods and bod
 
 | Time    | Duration (mins) | Activities|
 | -------- | ------- |
-|10:00 | 10  | Introduction to the Body Maps |
-|10:10 | 10  | Body Sensitisation to Physical Work with NIME |
+|10:00 | 20  | Introduction to the Body Maps and Warm-up |
 |10:20 | 40  | Body Maps in Action with Curated NIMEs |
 |11:00 | 10  | Break |
 |11:10 | 30  | Body Maps with Personal NIME Exploration |

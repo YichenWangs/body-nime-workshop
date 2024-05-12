@@ -6,13 +6,13 @@ permalink: /activities/
 
 The workshop will follow the following structure. We will provide body maps templates, papers, carton for you to explore bodily experiences with NIMEs, have fun!
 
-## 1. Introduction to the Body Maps Concept (10 mins)
+## 1. Introduction to the Body Maps Concept and Warm-up (20 mins)
 The workshop begins with an introduction to the body maps
 concept, its context and how it will be used in later practical
 activities.
 
-![bodymap](https://dl.acm.org/cms/attachment/html/10.1145/3569009.3573838/assets/html/images/tei23-60-fig9.jpg)
-<center>An illustration of using body maps to explore body experience. <a href="https://dl.acm.org/doi/10.1145/3569009.3573838">Image Source</a></center> 
+<!-- ![bodymap](https://dl.acm.org/cms/attachment/html/10.1145/3569009.3573838/assets/html/images/tei23-60-fig9.jpg)
+<center>An illustration of using body maps to explore body experience. <a href="https://dl.acm.org/doi/10.1145/3569009.3573838">Image Source</a></center>  -->
 
 
 ## 2. Body Sensitisation to Physical Work with NIME (10 mins)
@@ -30,15 +30,14 @@ how bodily experiences are unfolded by different creative
 expressions. The selected NIME systems offer unique sonic
 bodily experiences, including:
 
-| [Joakinator](https://arterobotico.com/joakinator/)                      | [Thanles](https://nicolaprivato.com/all_works#Stacco)   |
+| Sandy's Quilt                     | [Thanles](https://nicolaprivato.com/all_works#Stacco)   |
 |:-------------------------:|:-------------------------:|
-|<img width="300" alt="joakinator" src="https://github.com/JoakuDeSotavento/Cyborg-Interface/raw/master/assets/joaquin-diaz-duran-joakinator.png">  |  <img width="300" alt="thanles" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6CnYkbA5d_4EOcjWiA2UTjd5e2I1JwvfMg&usqp=CAU">|
+|<img width="300" alt="cube" src="../assets/cubing-sound-inapp.jpg"> | <img width="300" alt="thanles" src="https://nicolaprivato.com/__scale/uploads/s/w/c/5/wc5nvkcurxod/img/full_GmevcS1g.png?quality=85&width=1170&webp=1">|
 | [CUBE](https://www.nime.org/proc/nime22_27/index.html)                      | [#otherbeats](https://otherbeats.net)               |
 |:-------------------------:|:-------------------------:|
 |<img width="300" alt="cube" src="../assets/cubing-sound-inapp.jpg">  |  <img width="300" alt="otherbeats" src="https://freight.cargo.site/t/original/i/4c3e3e77e39d7e2f9f25a70c211fa1aa0bea6a5961ac4fa488a00c68670a90d4/Zaes--otherbeats-still-0.png">|
 
 
-- Joakinator: A wearable interactive interface that enables body gestures to activate various media materials, such as sound, music, and video.
 - Thanles: A low-cost instrument made up of two handheld magnetic controllers that interact with additional magnets to create a tactile sensation of sound during performance.   
 - CUBE: A mixed reality musical instrument that offers spatial music-making experiences with embodied virtual musical cubes.
 - #otherbeats: An online experimental sound instrument  facilitated by gestural interaction on a trackpad and featuring grid-based sound recordings.

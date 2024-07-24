@@ -30,14 +30,14 @@ how bodily experiences are unfolded by different creative
 expressions. The selected NIME systems offer unique sonic
 bodily experiences, including:
 
-| Sandy's Quilt                     | [Thanles](https://nicolaprivato.com/all_works#Stacco)   |
+| Touching Wires                     | [Thanles](https://nicolaprivato.com/all_works#Stacco)   |
 |:-------------------------:|:-------------------------:|
-|<img width="300" alt="cube" src="../assets/cubing-sound-inapp.jpg"> | <img width="300" alt="thanles" src="https://nicolaprivato.com/__scale/uploads/s/w/c/5/wc5nvkcurxod/img/full_GmevcS1g.png?quality=85&width=1170&webp=1">|
+|<img width="300" alt="cube" src="../assets/sandy-quilt-min.JPG"> | <img width="300" alt="thanles" src="https://nicolaprivato.com/__scale/uploads/s/w/c/5/wc5nvkcurxod/img/full_GmevcS1g.png?quality=85&width=1170&webp=1">|
 | [CUBE](https://www.nime.org/proc/nime22_27/index.html)                      | [#otherbeats](https://otherbeats.net)               |
 |:-------------------------:|:-------------------------:|
 |<img width="300" alt="cube" src="../assets/cubing-sound-inapp.jpg">  |  <img width="300" alt="otherbeats" src="https://freight.cargo.site/t/original/i/4c3e3e77e39d7e2f9f25a70c211fa1aa0bea6a5961ac4fa488a00c68670a90d4/Zaes--otherbeats-still-0.png">|
 
-
+- Touching wires: A bela-based sound quilt that explores embodied musical interactions.
 - Thanles: A low-cost instrument made up of two handheld magnetic controllers that interact with additional magnets to create a tactile sensation of sound during performance.   
 - CUBE: A mixed reality musical instrument that offers spatial music-making experiences with embodied virtual musical cubes.
 - #otherbeats: An online experimental sound instrument  facilitated by gestural interaction on a trackpad and featuring grid-based sound recordings.

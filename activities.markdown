@@ -36,7 +36,7 @@ how bodily experiences are unfolded by different creative
 expressions. The selected NIME systems offer unique sonic
 bodily experiences, including:
 
-| Touching Wires                     | [THALES](https://nicolaprivato.com/uploads/s/w/c/5/wc5nvkcurxod/img/full_57VSwx0z.png)   |
+| Touching Wires                     | [THALES](https://nicolaprivato.com/thales)   |
 |:-------------------------:|:-------------------------:|
 |<img width="300" alt="cube" src="../assets/sandy-quilt-min.JPG"> | <img width="300" alt="thales" src="https://nicolaprivato.com/uploads/s/w/c/5/wc5nvkcurxod/img/full_57VSwx0z.png">|
 | [CUBE](https://www.nime.org/proc/nime22_27/index.html)                      | [#otherbeats](https://otherbeats.net)               |

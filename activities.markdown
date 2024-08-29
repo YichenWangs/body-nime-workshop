@@ -42,10 +42,14 @@ bodily experiences, including:
 | [CUBE](https://www.nime.org/proc/nime22_27/index.html)                      | [#otherbeats](https://otherbeats.net)               |
 |:-------------------------:|:-------------------------:|
 |<img width="300" alt="cube" src="../assets/cubing-sound-inapp.jpg">  |  <img width="300" alt="otherbeats" src="https://freight.cargo.site/t/original/i/4c3e3e77e39d7e2f9f25a70c211fa1aa0bea6a5961ac4fa488a00c68670a90d4/Zaes--otherbeats-still-0.png">|
+| [Micro:IMPSY](https://github.com/cpmpercussion/impsy)                          |
+|:-------------------------:|:-------------------------:|
+|<img width="300" alt="cube" src="https://github.com/cpmpercussion/impsy/raw/main/images/IMPS_connection_example.png">  |  
 
 - Touching wires: A bela-based sound quilt that explores embodied musical interactions.
 - Thales: A low-cost instrument made up of two handheld magnetic controllers that interact with additional magnets to create a tactile sensation of sound during performance.   
 - CUBE: A mixed reality musical instrument that offers spatial music-making experiences with embodied virtual musical cubes.
+- Micro:IMPSY: An interactive noisy AI instrument in micro:bit.  
 - #otherbeats: An online experimental sound instrument  facilitated by gestural interaction on a trackpad and featuring grid-based sound recordings.
 
 Participants will be organised into groups to interact with one of these systems and document their experiences using the body maps

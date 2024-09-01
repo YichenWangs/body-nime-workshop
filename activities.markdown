@@ -27,7 +27,7 @@ bodily experiences, including:
 
 | Touching Wires                     | [THALES](https://nicolaprivato.com/thales)   |
 |:-------------------------:|:-------------------------:|
-|<img width="300" alt="cube" src="../assets/sandy-quilt-min.JPG"> | <img width="300" alt="thales" src="../assets/thales-jpeg">|
+|<img width="300" alt="cube" src="../assets/sandy-quilt-min.JPG"> | <img width="300" alt="thales" src="https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-6/431273842_426013803274746_6399818032637083426_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WVuZG84IKhYQ7kNvgFv87hF&_nc_ht=scontent-ams4-1.xx&_nc_gid=AFsZG6PoM_XOb0ikD9ijqk3&oh=00_AYBJWvJLiTtY7-vWou1jgk6i57Wh2ajjbjpJIogxgxb88Q&oe=66DA3039">|
 | [CUBE](https://www.nime.org/proc/nime22_27/index.html)                      | [#otherbeats](https://otherbeats.net)               |
 |:-------------------------:|:-------------------------:|
 |<img width="300" alt="cube" src="../assets/cubing-sound-inapp.jpg">  |  <img width="300" alt="otherbeats" src="https://freight.cargo.site/t/original/i/4c3e3e77e39d7e2f9f25a70c211fa1aa0bea6a5961ac4fa488a00c68670a90d4/Zaes--otherbeats-still-0.png">|

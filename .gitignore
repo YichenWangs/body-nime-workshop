@@ -1,5 +1,42 @@
-_site
-.sass-cache
-.jekyll-cache
+# Jekyll Site
+_site/
+.sass-cache/
 .jekyll-metadata
-vendor
+.jekyll-cache/
+
+# Bundler
+.bundle/
+vendor/bundle/
+
+# Node
+node_modules/
+
+# Log and Database Files
+*.log
+*.sqlite3
+*.sqlite3-journal
+
+# System Files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.DS_Store
+._DS_Store
+
+# Thumbnails
+Thumbs.db
+
+# Backup Files
+*.swp
+*.swo
+*~
+*.bak
+
+# IDEs
+.idea/
+.vscode/
+
+# Temp files
+*.tmp
+*.temp

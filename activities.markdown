@@ -10,24 +10,13 @@ The workshop will follow the following structure. We will provide body maps temp
 The workshop begins with an introduction to the body maps
 concept, its context and how it will be used in later practical
 activities.
-
-The workshop begins with an introduction to the body maps tool, its context and how it will be used in later practical activities. This will be followed by a sensory and movement warm-up activity designed to heighten participants awareness of their bodies in relation to the physicality NIMEs, inspired by the process discussed in [here](https://dl.acm.org/doi/abs/10.1145/3490149.3502262).
+This will be followed by a sensory and movement warm-up activity designed to heighten participants awareness of their bodies in relation to the physicality NIMEs, inspired by the process discussed in [here](https://dl.acm.org/doi/abs/10.1145/3490149.3502262).
 This warm-up aims to attune participants to the diverse bodily sensations evoked by NIME interactions.
 
 
 ![bodymap](https://www.researchgate.net/publication/358575123/figure/fig2/AS:11431281086141189@1664147143632/Using-body-map-as-a-generative-tool-for-soma-design.png)
 <center>An illustration of using body maps to explore body experience. <a href="https://www.researchgate.net/publication/358575123/figure/fig2/AS:11431281086141189@1664147143632/Using-body-map-as-a-generative-tool-for-soma-design.png">Image Source</a></center>
 
-
-
-
-<!-- ## 2. Body Sensitisation to Physical Work with NIME (10 mins)
-This session provides a sensory and movement warm-up de-
-signed to heighten participants awareness of their bodies in
-relation to the physicality NIMEs, inspired by Butoh dancer
-[Atsushi Takenouchi](https://www.taylorfrancis.com/books/mono/10.4324/9780203001035/hijikata-tatsumi-ohno-kazuo-sondra-fraleigh-tamah-nakamura). This warm-up aims to attune par-
-ticipants to the diverse bodily sensations evoked by NIME
-interactions. -->
 
 ## 2. Body Maps in Action with Curated NIMEs (40 mins)
 This session demonstrates the use of body maps with four

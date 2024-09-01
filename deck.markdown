@@ -43,7 +43,7 @@ Before we begin, we’d like to invite everyone to do a little reflection on the
 |:-------------------------:|:-------------------------:|
 |<img width="300" alt="cube" src="https://github.com/cpmpercussion/impsy/raw/main/images/IMPS_connection_example.png">  | 
 
-# `4. Collective reflection🎙️`
+# `4. Collective reflection 🎙️`
 
 On the coloured sheets, respond to the prompts:
 1.	In my practice, I can use body mapping to ... 

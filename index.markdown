@@ -4,7 +4,11 @@
 
 layout: page
 ---
+<center>
+![thumnail](../assets/thumbnail.jpg)
+
 Organisers: Yichen Wang, Sandy Ma, Charles Patrick Martin
+</center>
 
 
 # Workshop Information

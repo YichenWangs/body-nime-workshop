@@ -6,7 +6,7 @@ layout: page
 ---
 
 <center>
-<img src="../assets/thumbnail.jpg" alt="thumbnail" style="display: block; margin: auto;" />
+<img src="/assets/thumbnail.jpg" alt="thumbnail" style="display: block; margin: auto;" />
 </center>
 
 <center>

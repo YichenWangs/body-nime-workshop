@@ -4,9 +4,12 @@
 
 layout: page
 ---
-<center>
-![thumnail](../assets/thumbnail.jpg)
 
+<center>
+<img src="../assets/thumbnail.jpg" alt="thumbnail" style="display: block; margin: auto;" />
+</center>
+
+<center>
 Organisers: Yichen Wang, Sandy Ma, Charles Patrick Martin
 </center>
 

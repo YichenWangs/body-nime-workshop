@@ -6,9 +6,9 @@ permalink: /deck/
 
 # `1. Welcome & Introduce yourself!`
 
-| Yichen                      | Sandy |
-|:-------------------------:|:-------------------------:|
-|<img width="300" alt="yichen" src="../assets/yichen-2.jpeg"> | <img width="300" alt="sandy" src="../assets/sandy.jpg">|
+| Yichen                      | Sandy | Charles |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="300" alt="yichen" src="../assets/yichen-2.jpeg"> | <img width="300" alt="sandy" src="../assets/sandy.jpg">|<img width="300" alt="sandy" src="https://charlesmartin.au/assets/bio/charlesmartin-synth-profile.jpg">
 
 Before we begin, we’d like to invite everyone to do a little reflection on the role of embodiment in their practice as a warm up. On the coloured sheets, respond to the following prompts:
 1.	To me, embodiment means ...

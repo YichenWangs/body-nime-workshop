@@ -42,7 +42,7 @@ bodily experiences, including:
 - #otherbeats: An online experimental sound instrument  facilitated by gestural interaction on a trackpad and featuring grid-based sound recordings.
 
 Participants will be organised into groups to interact with one of these systems and document their experiences using the body maps
-template. Online participants will form a virtual group.
+template.
 
 ## 3. Body Maps with Personal NIME Exploration (30 mins)
 In this session, participants will employ the body maps tool
@@ -50,7 +50,6 @@ with their NIMEs, similar to the previous section. This session aims to provoke 
 the intimate relationship between the performer and their
 own instrument. For those without their instruments on
 hand, we courage collaboration or conceptual engagement.
-Online participants will complete this remotely.
 
 ## 4. Collective Reflection (20 mins)
 The workshop will end with a group reflection where participants will share their experiences and create a collective

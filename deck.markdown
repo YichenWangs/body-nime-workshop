@@ -31,7 +31,7 @@ Before we begin, we’d like to invite everyone to do a little reflection on the
 >
 [4] Manon Vialle, Sarah Fdili Alaoui, Mélina Skouras, and Elisabeth Schwartz. 2023. Supporting Perception of Spatiality in Dance in Augmented Reality. In Proceedings of the 15th Conference on Creativity and Cognition (C&amp;C '23). Association for Computing Machinery, New York, NY, USA, 441–453. https://doi.org/10.1145/3591196.3593513
 
-# `3. Let's NIME! 🪇`
+# `3. Let's NIME with Body Maps! 🪇`
 
 | Touching Wires                     | [THALES](https://nicolaprivato.com/thales)   |
 |:-------------------------:|:-------------------------:|

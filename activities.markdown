@@ -38,7 +38,7 @@ bodily experiences, including:
 - Touching wires: A bela-based sound quilt that explores embodied musical interactions.
 - Thales: A low-cost instrument made up of two handheld magnetic controllers that interact with additional magnets to create a tactile sensation of sound during performance.   
 - CUBE: A mixed reality musical instrument that offers spatial music-making experiences with embodied virtual musical cubes.
-- Micro:IMPSY: An interactive noisy AI instrument in micro:bit.  
+- Micro:IMPSY: An interactive AI instrument in micro:bit.  
 - #otherbeats: An online experimental sound instrument  facilitated by gestural interaction on a trackpad and featuring grid-based sound recordings.
 
 Participants will be organised into groups to interact with one of these systems and document their experiences using the body maps
